@@ -1,0 +1,21 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: skyblue;
+border: rgb(234, 22, 22);
+}
+.main_body{
+    position:absolute;
+    width: 400px;
+    height: 400px;
+    padding: 5px;
+    background:rgb(238, 2, 255);
+}
+input{
+    outline: none;
+    border: rgb(8, 37, 255);
+    padding: 5px;
+    width:auto
+}
